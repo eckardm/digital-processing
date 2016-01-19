@@ -20,3 +20,5 @@ The latest iteration of our workflow involves the use of [Archivematica](https:/
   3. deposit AIPs from Archivematica into DSpace, including metadata linked from ArchivesSpace.
 
 This section of the manual will provide an overview of the digital processing workflow and more detailed guidelines for individual steps.
+
+[Administration](administration.md) | [Transfer](transfer.md) | [Appraisal](appraisal.md) | [Ingest](ingest.md)
