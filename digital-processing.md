@@ -15,7 +15,7 @@ The Bentley's current digital processing procedures have evolved from both a lar
 
 The latest iteration of our workflow involves the use of [Archivematica](https://www.archivematica.org/en/), a web- and standards-based, open-source application that allows institutions to preserve long-term access to trustworthy, authentic and reliable digital content, and includes the use of a new Appraisal and Arrangement feature, an outcome of the Mellon Foundation-funded ArchivesSpace-Archivematica-DSpace Workflow Integration project. 
 
-![Appraisal and Arrangement tab](appraisal-arrangement.png)
+![Appraisal and Arrangement tab](appraisal-arrangment.png)
 
 This feature allows archivists to:
 
